@@ -1,0 +1,12 @@
+/Users/sinhtran/Projects/DO_AN_NMLT/DO_AN_NMLT/bin/Debug/netcoreapp3.1/DO_AN_NMLT.deps.json
+/Users/sinhtran/Projects/DO_AN_NMLT/DO_AN_NMLT/bin/Debug/netcoreapp3.1/DO_AN_NMLT.runtimeconfig.json
+/Users/sinhtran/Projects/DO_AN_NMLT/DO_AN_NMLT/bin/Debug/netcoreapp3.1/DO_AN_NMLT.runtimeconfig.dev.json
+/Users/sinhtran/Projects/DO_AN_NMLT/DO_AN_NMLT/bin/Debug/netcoreapp3.1/DO_AN_NMLT.dll
+/Users/sinhtran/Projects/DO_AN_NMLT/DO_AN_NMLT/bin/Debug/netcoreapp3.1/DO_AN_NMLT.pdb
+/Users/sinhtran/Projects/DO_AN_NMLT/DO_AN_NMLT/obj/Debug/netcoreapp3.1/DO_AN_NMLT.csprojAssemblyReference.cache
+/Users/sinhtran/Projects/DO_AN_NMLT/DO_AN_NMLT/obj/Debug/netcoreapp3.1/DO_AN_NMLT.AssemblyInfoInputs.cache
+/Users/sinhtran/Projects/DO_AN_NMLT/DO_AN_NMLT/obj/Debug/netcoreapp3.1/DO_AN_NMLT.AssemblyInfo.cs
+/Users/sinhtran/Projects/DO_AN_NMLT/DO_AN_NMLT/obj/Debug/netcoreapp3.1/DO_AN_NMLT.csproj.CoreCompileInputs.cache
+/Users/sinhtran/Projects/DO_AN_NMLT/DO_AN_NMLT/obj/Debug/netcoreapp3.1/DO_AN_NMLT.dll
+/Users/sinhtran/Projects/DO_AN_NMLT/DO_AN_NMLT/obj/Debug/netcoreapp3.1/DO_AN_NMLT.pdb
+/Users/sinhtran/Projects/DO_AN_NMLT/DO_AN_NMLT/obj/Debug/netcoreapp3.1/DO_AN_NMLT.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+F:\Bai tap\NMLT\Doan\Doan\bin\Debug\Doan.exe.config
+F:\Bai tap\NMLT\Doan\Doan\bin\Debug\Doan.exe
+F:\Bai tap\NMLT\Doan\Doan\bin\Debug\Doan.pdb
+F:\Bai tap\NMLT\Doan\Doan\obj\Debug\Doan.csprojAssemblyReference.cache
+F:\Bai tap\NMLT\Doan\Doan\obj\Debug\Doan.Form1.resources
+F:\Bai tap\NMLT\Doan\Doan\obj\Debug\Doan.Properties.Resources.resources
+F:\Bai tap\NMLT\Doan\Doan\obj\Debug\Doan.csproj.GenerateResource.cache
+F:\Bai tap\NMLT\Doan\Doan\obj\Debug\Doan.csproj.CoreCompileInputs.cache
+F:\Bai tap\NMLT\Doan\Doan\obj\Debug\Doan.exe
+F:\Bai tap\NMLT\Doan\Doan\obj\Debug\Doan.pdb

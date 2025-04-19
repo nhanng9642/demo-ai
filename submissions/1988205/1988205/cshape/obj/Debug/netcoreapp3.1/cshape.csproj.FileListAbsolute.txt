@@ -1,0 +1,13 @@
+C:\Users\DELL\khanh\personal\cshape\bin\Debug\netcoreapp3.1\cshape.exe
+C:\Users\DELL\khanh\personal\cshape\bin\Debug\netcoreapp3.1\cshape.deps.json
+C:\Users\DELL\khanh\personal\cshape\bin\Debug\netcoreapp3.1\cshape.runtimeconfig.json
+C:\Users\DELL\khanh\personal\cshape\bin\Debug\netcoreapp3.1\cshape.runtimeconfig.dev.json
+C:\Users\DELL\khanh\personal\cshape\bin\Debug\netcoreapp3.1\cshape.dll
+C:\Users\DELL\khanh\personal\cshape\bin\Debug\netcoreapp3.1\cshape.pdb
+C:\Users\DELL\khanh\personal\cshape\obj\Debug\netcoreapp3.1\cshape.csprojAssemblyReference.cache
+C:\Users\DELL\khanh\personal\cshape\obj\Debug\netcoreapp3.1\cshape.AssemblyInfoInputs.cache
+C:\Users\DELL\khanh\personal\cshape\obj\Debug\netcoreapp3.1\cshape.AssemblyInfo.cs
+C:\Users\DELL\khanh\personal\cshape\obj\Debug\netcoreapp3.1\cshape.csproj.CoreCompileInputs.cache
+C:\Users\DELL\khanh\personal\cshape\obj\Debug\netcoreapp3.1\cshape.dll
+C:\Users\DELL\khanh\personal\cshape\obj\Debug\netcoreapp3.1\cshape.pdb
+C:\Users\DELL\khanh\personal\cshape\obj\Debug\netcoreapp3.1\cshape.genruntimeconfig.cache

@@ -1,0 +1,29 @@
+F:\Bai tap\NMLT\Doan\Doan\bin\Debug\Doan.exe.config
+F:\Bai tap\NMLT\Doan\Doan\bin\Debug\Doan.exe
+F:\Bai tap\NMLT\Doan\Doan\bin\Debug\Doan.pdb
+F:\Bai tap\NMLT\Doan\Doan\obj\Debug\Doan.csprojAssemblyReference.cache
+F:\Bai tap\NMLT\Doan\Doan\obj\Debug\Doan.Form1.resources
+F:\Bai tap\NMLT\Doan\Doan\obj\Debug\Doan.Properties.Resources.resources
+F:\Bai tap\NMLT\Doan\Doan\obj\Debug\Doan.csproj.GenerateResource.cache
+F:\Bai tap\NMLT\Doan\Doan\obj\Debug\Doan.csproj.CoreCompileInputs.cache
+F:\Bai tap\NMLT\Doan\Doan\obj\Debug\Doan.exe
+F:\Bai tap\NMLT\Doan\Doan\obj\Debug\Doan.pdb
+C:\Users\Romio\Desktop\Doan\Doan\bin\Debug\Doan.exe.config
+C:\Users\Romio\Desktop\Doan\Doan\bin\Debug\Doan.exe
+C:\Users\Romio\Desktop\Doan\Doan\bin\Debug\Doan.pdb
+C:\Users\Romio\Desktop\Doan\Doan\obj\Debug\Doan.csprojAssemblyReference.cache
+C:\Users\Romio\Desktop\Doan\Doan\obj\Debug\Doan.Form1.resources
+C:\Users\Romio\Desktop\Doan\Doan\obj\Debug\Doan.Properties.Resources.resources
+C:\Users\Romio\Desktop\Doan\Doan\obj\Debug\Doan.csproj.GenerateResource.cache
+C:\Users\Romio\Desktop\Doan\Doan\obj\Debug\Doan.exe
+C:\Users\Romio\Desktop\Doan\Doan\obj\Debug\Doan.pdb
+F:\Bai tap\NMLT\[MrDuong]DoAn-06-15\Doan\Doan\bin\Debug\Doan.exe.config
+F:\Bai tap\NMLT\[MrDuong]DoAn-06-15\Doan\Doan\bin\Debug\Doan.exe
+F:\Bai tap\NMLT\[MrDuong]DoAn-06-15\Doan\Doan\bin\Debug\Doan.pdb
+F:\Bai tap\NMLT\[MrDuong]DoAn-06-15\Doan\Doan\obj\Debug\Doan.csprojAssemblyReference.cache
+F:\Bai tap\NMLT\[MrDuong]DoAn-06-15\Doan\Doan\obj\Debug\Doan.Form1.resources
+F:\Bai tap\NMLT\[MrDuong]DoAn-06-15\Doan\Doan\obj\Debug\Doan.Properties.Resources.resources
+F:\Bai tap\NMLT\[MrDuong]DoAn-06-15\Doan\Doan\obj\Debug\Doan.csproj.GenerateResource.cache
+F:\Bai tap\NMLT\[MrDuong]DoAn-06-15\Doan\Doan\obj\Debug\Doan.csproj.CoreCompileInputs.cache
+F:\Bai tap\NMLT\[MrDuong]DoAn-06-15\Doan\Doan\obj\Debug\Doan.exe
+F:\Bai tap\NMLT\[MrDuong]DoAn-06-15\Doan\Doan\obj\Debug\Doan.pdb

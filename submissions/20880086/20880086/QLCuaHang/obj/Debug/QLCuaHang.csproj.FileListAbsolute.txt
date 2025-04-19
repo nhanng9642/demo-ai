@@ -1,0 +1,10 @@
+C:\Users\admin\Documents\Notes\IT Cert\NMLT\Sample\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.exe.config
+C:\Users\admin\Documents\Notes\IT Cert\NMLT\Sample\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.exe
+C:\Users\admin\Documents\Notes\IT Cert\NMLT\Sample\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.pdb
+C:\Users\admin\Documents\Notes\IT Cert\NMLT\Sample\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Notes\IT Cert\NMLT\Sample\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Form1.resources
+C:\Users\admin\Documents\Notes\IT Cert\NMLT\Sample\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Properties.Resources.resources
+C:\Users\admin\Documents\Notes\IT Cert\NMLT\Sample\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Notes\IT Cert\NMLT\Sample\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Notes\IT Cert\NMLT\Sample\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.exe
+C:\Users\admin\Documents\Notes\IT Cert\NMLT\Sample\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.pdb

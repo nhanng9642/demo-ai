@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\NMLT_20880026\bin\Debug\NMLT_20880026.exe.config
+C:\Users\Admin\source\repos\NMLT_20880026\bin\Debug\NMLT_20880026.exe
+C:\Users\Admin\source\repos\NMLT_20880026\bin\Debug\NMLT_20880026.pdb
+C:\Users\Admin\source\repos\NMLT_20880026\obj\Debug\NMLT_20880026.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\NMLT_20880026\obj\Debug\NMLT_20880026.Properties.Resources.resources
+C:\Users\Admin\source\repos\NMLT_20880026\obj\Debug\NMLT_20880026.QLCuaHang.resources
+C:\Users\Admin\source\repos\NMLT_20880026\obj\Debug\NMLT_20880026.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\NMLT_20880026\obj\Debug\NMLT_20880026.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NMLT_20880026\obj\Debug\NMLT_20880026.exe
+C:\Users\Admin\source\repos\NMLT_20880026\obj\Debug\NMLT_20880026.pdb

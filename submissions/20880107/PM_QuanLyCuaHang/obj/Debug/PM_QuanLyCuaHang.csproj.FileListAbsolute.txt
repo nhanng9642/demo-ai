@@ -1,0 +1,20 @@
+D:\4 PROJECT\Exam\PM_QuanlyCuahang2\PM_QuanLyCuaHang\obj\Debug\PM_QuanLyCuaHang.csprojAssemblyReference.cache
+D:\4 PROJECT\Exam\PM_QuanlyCuahang2\PM_QuanLyCuaHang\obj\Debug\PM_QuanLyCuaHang.Form1.resources
+D:\4 PROJECT\Exam\PM_QuanlyCuahang2\PM_QuanLyCuaHang\obj\Debug\PM_QuanLyCuaHang.Properties.Resources.resources
+D:\4 PROJECT\Exam\PM_QuanlyCuahang2\PM_QuanLyCuaHang\obj\Debug\PM_QuanLyCuaHang.csproj.GenerateResource.cache
+D:\4 PROJECT\Exam\PM_QuanlyCuahang2\PM_QuanLyCuaHang\obj\Debug\PM_QuanLyCuaHang.csproj.CoreCompileInputs.cache
+D:\4 PROJECT\Exam\PM_QuanlyCuahang2\PM_QuanLyCuaHang\bin\Debug\PM_QuanLyCuaHang.exe.config
+D:\4 PROJECT\Exam\PM_QuanlyCuahang2\PM_QuanLyCuaHang\bin\Debug\PM_QuanLyCuaHang.exe
+D:\4 PROJECT\Exam\PM_QuanlyCuahang2\PM_QuanLyCuaHang\bin\Debug\PM_QuanLyCuaHang.pdb
+D:\4 PROJECT\Exam\PM_QuanlyCuahang2\PM_QuanLyCuaHang\obj\Debug\PM_QuanLyCuaHang.exe
+D:\4 PROJECT\Exam\PM_QuanlyCuahang2\PM_QuanLyCuaHang\obj\Debug\PM_QuanLyCuaHang.pdb
+D:\Desktop\PM_QuanLyCuaHang\bin\Debug\PM_QuanLyCuaHang.exe.config
+D:\Desktop\PM_QuanLyCuaHang\bin\Debug\PM_QuanLyCuaHang.exe
+D:\Desktop\PM_QuanLyCuaHang\bin\Debug\PM_QuanLyCuaHang.pdb
+D:\Desktop\PM_QuanLyCuaHang\obj\Debug\PM_QuanLyCuaHang.csprojAssemblyReference.cache
+D:\Desktop\PM_QuanLyCuaHang\obj\Debug\PM_QuanLyCuaHang.Form1.resources
+D:\Desktop\PM_QuanLyCuaHang\obj\Debug\PM_QuanLyCuaHang.Properties.Resources.resources
+D:\Desktop\PM_QuanLyCuaHang\obj\Debug\PM_QuanLyCuaHang.csproj.GenerateResource.cache
+D:\Desktop\PM_QuanLyCuaHang\obj\Debug\PM_QuanLyCuaHang.csproj.CoreCompileInputs.cache
+D:\Desktop\PM_QuanLyCuaHang\obj\Debug\PM_QuanLyCuaHang.exe
+D:\Desktop\PM_QuanLyCuaHang\obj\Debug\PM_QuanLyCuaHang.pdb

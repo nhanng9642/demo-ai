@@ -1,0 +1,29 @@
+C:\Users\Binh\source\repos\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\Binh\source\repos\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\Binh\source\repos\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\Binh\source\repos\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\Binh\source\repos\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\Binh\source\repos\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\Binh\source\repos\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\Binh\source\repos\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\Binh\source\repos\DoAn\DoAn\obj\Debug\DoAn.Form1.resources
+C:\Users\Binh\Desktop\de bai\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\Binh\Desktop\de bai\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\Binh\Desktop\de bai\DoAn\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\Binh\Desktop\de bai\DoAn\DoAn\DoAn\obj\Debug\DoAn.csprojAssemblyReference.cache
+C:\Users\Binh\Desktop\de bai\DoAn\DoAn\DoAn\obj\Debug\DoAn.Form1.resources
+C:\Users\Binh\Desktop\de bai\DoAn\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\Binh\Desktop\de bai\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\Binh\Desktop\de bai\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\Binh\Desktop\de bai\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\Binh\Desktop\de bai\DoAn\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\HOME\OneDrive\Desktop\DoAn (1)\nguyenviethoangson_20880074\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\HOME\OneDrive\Desktop\DoAn (1)\nguyenviethoangson_20880074\DoAn\bin\Debug\DoAn.exe
+C:\Users\HOME\OneDrive\Desktop\DoAn (1)\nguyenviethoangson_20880074\DoAn\bin\Debug\DoAn.pdb
+C:\Users\HOME\OneDrive\Desktop\DoAn (1)\nguyenviethoangson_20880074\DoAn\obj\Debug\DoAn.csprojAssemblyReference.cache
+C:\Users\HOME\OneDrive\Desktop\DoAn (1)\nguyenviethoangson_20880074\DoAn\obj\Debug\DoAn.Form1.resources
+C:\Users\HOME\OneDrive\Desktop\DoAn (1)\nguyenviethoangson_20880074\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\HOME\OneDrive\Desktop\DoAn (1)\nguyenviethoangson_20880074\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\HOME\OneDrive\Desktop\DoAn (1)\nguyenviethoangson_20880074\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\HOME\OneDrive\Desktop\DoAn (1)\nguyenviethoangson_20880074\DoAn\obj\Debug\DoAn.exe
+C:\Users\HOME\OneDrive\Desktop\DoAn (1)\nguyenviethoangson_20880074\DoAn\obj\Debug\DoAn.pdb

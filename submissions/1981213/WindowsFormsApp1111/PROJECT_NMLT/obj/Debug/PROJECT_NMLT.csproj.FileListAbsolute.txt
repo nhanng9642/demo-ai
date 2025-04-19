@@ -1,0 +1,13 @@
+C:\Users\quanq\source\repos\WindowsFormsApp1111\PROJECT_NMLT\bin\Debug\PROJECT_NMLT.exe.config
+C:\Users\quanq\source\repos\WindowsFormsApp1111\PROJECT_NMLT\bin\Debug\PROJECT_NMLT.exe
+C:\Users\quanq\source\repos\WindowsFormsApp1111\PROJECT_NMLT\bin\Debug\PROJECT_NMLT.pdb
+C:\Users\quanq\source\repos\WindowsFormsApp1111\PROJECT_NMLT\obj\Debug\PROJECT_NMLT.csprojAssemblyReference.cache
+C:\Users\quanq\source\repos\WindowsFormsApp1111\PROJECT_NMLT\obj\Debug\PROJECT_NMLT.MainFrom.resources
+C:\Users\quanq\source\repos\WindowsFormsApp1111\PROJECT_NMLT\obj\Debug\PROJECT_NMLT.Properties.Resources.resources
+C:\Users\quanq\source\repos\WindowsFormsApp1111\PROJECT_NMLT\obj\Debug\PROJECT_NMLT.csproj.GenerateResource.cache
+C:\Users\quanq\source\repos\WindowsFormsApp1111\PROJECT_NMLT\obj\Debug\PROJECT_NMLT.csproj.CoreCompileInputs.cache
+C:\Users\quanq\source\repos\WindowsFormsApp1111\PROJECT_NMLT\obj\Debug\PROJECT_NMLT.exe
+C:\Users\quanq\source\repos\WindowsFormsApp1111\PROJECT_NMLT\obj\Debug\PROJECT_NMLT.pdb
+C:\Users\quanq\source\repos\WindowsFormsApp1111\PROJECT_NMLT\obj\Debug\PROJECT_NMLT.MH_THEM.resources
+C:\Users\quanq\source\repos\WindowsFormsApp1111\PROJECT_NMLT\obj\Debug\PROJECT_NMLT.MH_SANPHAM.resources
+C:\Users\quanq\source\repos\WindowsFormsApp1111\PROJECT_NMLT\obj\Debug\PROJECT_NMLT.MH_SUASANPHAM.resources

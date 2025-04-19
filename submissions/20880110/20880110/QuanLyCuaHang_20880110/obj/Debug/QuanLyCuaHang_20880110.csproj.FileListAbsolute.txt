@@ -1,0 +1,10 @@
+D:\VanBang2\NhapMonLapTrinh\QuanLyCuaHang_20880110\QuanLyCuaHang_20880110\bin\Debug\QuanLyCuaHang_20880110.exe.config
+D:\VanBang2\NhapMonLapTrinh\QuanLyCuaHang_20880110\QuanLyCuaHang_20880110\bin\Debug\QuanLyCuaHang_20880110.exe
+D:\VanBang2\NhapMonLapTrinh\QuanLyCuaHang_20880110\QuanLyCuaHang_20880110\bin\Debug\QuanLyCuaHang_20880110.pdb
+D:\VanBang2\NhapMonLapTrinh\QuanLyCuaHang_20880110\QuanLyCuaHang_20880110\obj\Debug\QuanLyCuaHang_20880110.frmQLyCuaHang.resources
+D:\VanBang2\NhapMonLapTrinh\QuanLyCuaHang_20880110\QuanLyCuaHang_20880110\obj\Debug\QuanLyCuaHang_20880110.Properties.Resources.resources
+D:\VanBang2\NhapMonLapTrinh\QuanLyCuaHang_20880110\QuanLyCuaHang_20880110\obj\Debug\QuanLyCuaHang_20880110.csproj.GenerateResource.cache
+D:\VanBang2\NhapMonLapTrinh\QuanLyCuaHang_20880110\QuanLyCuaHang_20880110\obj\Debug\QuanLyCuaHang_20880110.csproj.CoreCompileInputs.cache
+D:\VanBang2\NhapMonLapTrinh\QuanLyCuaHang_20880110\QuanLyCuaHang_20880110\obj\Debug\QuanLyCuaHang_20880110.exe
+D:\VanBang2\NhapMonLapTrinh\QuanLyCuaHang_20880110\QuanLyCuaHang_20880110\obj\Debug\QuanLyCuaHang_20880110.pdb
+D:\VanBang2\NhapMonLapTrinh\QuanLyCuaHang_20880110\QuanLyCuaHang_20880110\obj\Debug\QuanLyCuaHang_20880110.csprojAssemblyReference.cache

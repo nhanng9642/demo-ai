@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfData_ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Data_>
+    <MaHang>3</MaHang>
+    <ExpireDate>3</ExpireDate>
+    <NamSX>2000</NamSX>
+    <LoaiHang>3</LoaiHang>
+    <TenMatHang>Banh</TenMatHang>
+    <CtySX>vn zone</CtySX>
+    <all>
+      <anyType xsi:type="xsd:int">3</anyType>
+      <anyType xsi:type="xsd:int">3</anyType>
+      <anyType xsi:type="xsd:int">2000</anyType>
+      <anyType xsi:type="xsd:int">3</anyType>
+      <anyType xsi:type="xsd:string">Banh</anyType>
+      <anyType xsi:type="xsd:string">vn zone</anyType>
+    </all>
+  </Data_>
+  <Data_>
+    <MaHang>2</MaHang>
+    <ExpireDate>4</ExpireDate>
+    <NamSX>2001</NamSX>
+    <LoaiHang>1</LoaiHang>
+    <TenMatHang>com</TenMatHang>
+    <CtySX>coco</CtySX>
+    <all>
+      <anyType xsi:type="xsd:int">2</anyType>
+      <anyType xsi:type="xsd:int">4</anyType>
+      <anyType xsi:type="xsd:int">2001</anyType>
+      <anyType xsi:type="xsd:int">1</anyType>
+      <anyType xsi:type="xsd:string">com</anyType>
+      <anyType xsi:type="xsd:string">coco</anyType>
+    </all>
+  </Data_>
+  <Data_>
+    <MaHang>1</MaHang>
+    <ExpireDate>6</ExpireDate>
+    <NamSX>1999</NamSX>
+    <LoaiHang>2</LoaiHang>
+    <TenMatHang>nc chanh</TenMatHang>
+    <CtySX>mina</CtySX>
+    <all>
+      <anyType xsi:type="xsd:int">1</anyType>
+      <anyType xsi:type="xsd:int">6</anyType>
+      <anyType xsi:type="xsd:int">1999</anyType>
+      <anyType xsi:type="xsd:int">2</anyType>
+      <anyType xsi:type="xsd:string">nc chanh</anyType>
+      <anyType xsi:type="xsd:string">mina</anyType>
+    </all>
+  </Data_>
+  <Data_>
+    <MaHang>4</MaHang>
+    <ExpireDate>1</ExpireDate>
+    <NamSX>2000</NamSX>
+    <LoaiHang>1</LoaiHang>
+    <TenMatHang>nem cua</TenMatHang>
+    <CtySX>chinsu</CtySX>
+    <all>
+      <anyType xsi:type="xsd:int">4</anyType>
+      <anyType xsi:type="xsd:int">1</anyType>
+      <anyType xsi:type="xsd:int">2000</anyType>
+      <anyType xsi:type="xsd:int">1</anyType>
+      <anyType xsi:type="xsd:string">nem cua</anyType>
+      <anyType xsi:type="xsd:string">chinsu</anyType>
+    </all>
+  </Data_>
+</ArrayOfData_>

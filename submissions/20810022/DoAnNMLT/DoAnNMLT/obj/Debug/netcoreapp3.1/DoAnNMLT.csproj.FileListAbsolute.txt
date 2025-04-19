@@ -1,0 +1,12 @@
+D:\Học\NMLT\DoAnNMLT\DoAnNMLT\bin\Debug\netcoreapp3.1\DoAnNMLT.exe
+D:\Học\NMLT\DoAnNMLT\DoAnNMLT\bin\Debug\netcoreapp3.1\DoAnNMLT.deps.json
+D:\Học\NMLT\DoAnNMLT\DoAnNMLT\bin\Debug\netcoreapp3.1\DoAnNMLT.runtimeconfig.json
+D:\Học\NMLT\DoAnNMLT\DoAnNMLT\bin\Debug\netcoreapp3.1\DoAnNMLT.runtimeconfig.dev.json
+D:\Học\NMLT\DoAnNMLT\DoAnNMLT\bin\Debug\netcoreapp3.1\DoAnNMLT.dll
+D:\Học\NMLT\DoAnNMLT\DoAnNMLT\bin\Debug\netcoreapp3.1\DoAnNMLT.pdb
+D:\Học\NMLT\DoAnNMLT\DoAnNMLT\obj\Debug\netcoreapp3.1\DoAnNMLT.AssemblyInfoInputs.cache
+D:\Học\NMLT\DoAnNMLT\DoAnNMLT\obj\Debug\netcoreapp3.1\DoAnNMLT.AssemblyInfo.cs
+D:\Học\NMLT\DoAnNMLT\DoAnNMLT\obj\Debug\netcoreapp3.1\DoAnNMLT.csproj.CoreCompileInputs.cache
+D:\Học\NMLT\DoAnNMLT\DoAnNMLT\obj\Debug\netcoreapp3.1\DoAnNMLT.dll
+D:\Học\NMLT\DoAnNMLT\DoAnNMLT\obj\Debug\netcoreapp3.1\DoAnNMLT.pdb
+D:\Học\NMLT\DoAnNMLT\DoAnNMLT\obj\Debug\netcoreapp3.1\DoAnNMLT.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Trinh Nguyen\source\repos\QuanLyCuaHang\QuanLyHangHoa\bin\Debug\QuanLyHangHoa.exe
+C:\Users\Trinh Nguyen\source\repos\QuanLyCuaHang\QuanLyHangHoa\bin\Debug\QuanLyHangHoa.pdb
+C:\Users\Trinh Nguyen\source\repos\QuanLyCuaHang\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.csprojAssemblyReference.cache
+C:\Users\Trinh Nguyen\source\repos\QuanLyCuaHang\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.Properties.Resources.resources
+C:\Users\Trinh Nguyen\source\repos\QuanLyCuaHang\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.csproj.GenerateResource.cache
+C:\Users\Trinh Nguyen\source\repos\QuanLyCuaHang\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.csproj.CoreCompileInputs.cache
+C:\Users\Trinh Nguyen\source\repos\QuanLyCuaHang\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.exe
+C:\Users\Trinh Nguyen\source\repos\QuanLyCuaHang\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.pdb
+C:\Users\Trinh Nguyen\source\repos\QuanLyCuaHang\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.Login.resources
+C:\Users\Trinh Nguyen\source\repos\QuanLyCuaHang\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.MainForm.resources
+C:\Users\Trinh Nguyen\source\repos\QuanLyCuaHang\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.frm_LoaiHang.resources
+C:\Users\Trinh Nguyen\source\repos\QuanLyCuaHang\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.frm_MatHang.resources

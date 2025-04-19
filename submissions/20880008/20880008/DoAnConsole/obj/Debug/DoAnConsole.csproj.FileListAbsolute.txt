@@ -1,0 +1,14 @@
+C:\Users\Binh\source\repos\DoAnConsole\DoAnConsole\bin\Debug\DoAnConsole.exe.config
+C:\Users\Binh\source\repos\DoAnConsole\DoAnConsole\bin\Debug\DoAnConsole.exe
+C:\Users\Binh\source\repos\DoAnConsole\DoAnConsole\bin\Debug\DoAnConsole.pdb
+C:\Users\Binh\source\repos\DoAnConsole\DoAnConsole\obj\Debug\DoAnConsole.csprojAssemblyReference.cache
+C:\Users\Binh\source\repos\DoAnConsole\DoAnConsole\obj\Debug\DoAnConsole.csproj.CoreCompileInputs.cache
+C:\Users\Binh\source\repos\DoAnConsole\DoAnConsole\obj\Debug\DoAnConsole.exe
+C:\Users\Binh\source\repos\DoAnConsole\DoAnConsole\obj\Debug\DoAnConsole.pdb
+C:\Users\Binh\source\repos\DoAn_20880008\DoAnConsole\bin\Debug\DoAnConsole.exe.config
+C:\Users\Binh\source\repos\DoAn_20880008\DoAnConsole\bin\Debug\DoAnConsole.exe
+C:\Users\Binh\source\repos\DoAn_20880008\DoAnConsole\bin\Debug\DoAnConsole.pdb
+C:\Users\Binh\source\repos\DoAn_20880008\DoAnConsole\obj\Debug\DoAnConsole.csprojAssemblyReference.cache
+C:\Users\Binh\source\repos\DoAn_20880008\DoAnConsole\obj\Debug\DoAnConsole.csproj.CoreCompileInputs.cache
+C:\Users\Binh\source\repos\DoAn_20880008\DoAnConsole\obj\Debug\DoAnConsole.exe
+C:\Users\Binh\source\repos\DoAn_20880008\DoAnConsole\obj\Debug\DoAnConsole.pdb

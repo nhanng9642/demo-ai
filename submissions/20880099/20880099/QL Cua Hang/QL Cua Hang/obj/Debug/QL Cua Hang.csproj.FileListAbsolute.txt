@@ -1,0 +1,20 @@
+E:\De An NMLT\QL Cua Hang\QL Cua Hang\bin\Debug\QL Cua Hang.exe.config
+E:\De An NMLT\QL Cua Hang\QL Cua Hang\bin\Debug\QL Cua Hang.exe
+E:\De An NMLT\QL Cua Hang\QL Cua Hang\bin\Debug\QL Cua Hang.pdb
+E:\De An NMLT\QL Cua Hang\QL Cua Hang\obj\Debug\QL Cua Hang.csprojAssemblyReference.cache
+E:\De An NMLT\QL Cua Hang\QL Cua Hang\obj\Debug\QL_Cua_Hang.Form1.resources
+E:\De An NMLT\QL Cua Hang\QL Cua Hang\obj\Debug\QL_Cua_Hang.Properties.Resources.resources
+E:\De An NMLT\QL Cua Hang\QL Cua Hang\obj\Debug\QL Cua Hang.csproj.GenerateResource.cache
+E:\De An NMLT\QL Cua Hang\QL Cua Hang\obj\Debug\QL Cua Hang.csproj.CoreCompileInputs.cache
+E:\De An NMLT\QL Cua Hang\QL Cua Hang\obj\Debug\QL Cua Hang.exe
+E:\De An NMLT\QL Cua Hang\QL Cua Hang\obj\Debug\QL Cua Hang.pdb
+E:\20880099\QL Cua Hang\QL Cua Hang\bin\Debug\QL Cua Hang.exe.config
+E:\20880099\QL Cua Hang\QL Cua Hang\bin\Debug\QL Cua Hang.exe
+E:\20880099\QL Cua Hang\QL Cua Hang\bin\Debug\QL Cua Hang.pdb
+E:\20880099\QL Cua Hang\QL Cua Hang\obj\Debug\QL Cua Hang.csprojAssemblyReference.cache
+E:\20880099\QL Cua Hang\QL Cua Hang\obj\Debug\QL_Cua_Hang.Form1.resources
+E:\20880099\QL Cua Hang\QL Cua Hang\obj\Debug\QL_Cua_Hang.Properties.Resources.resources
+E:\20880099\QL Cua Hang\QL Cua Hang\obj\Debug\QL Cua Hang.csproj.GenerateResource.cache
+E:\20880099\QL Cua Hang\QL Cua Hang\obj\Debug\QL Cua Hang.csproj.CoreCompileInputs.cache
+E:\20880099\QL Cua Hang\QL Cua Hang\obj\Debug\QL Cua Hang.exe
+E:\20880099\QL Cua Hang\QL Cua Hang\obj\Debug\QL Cua Hang.pdb

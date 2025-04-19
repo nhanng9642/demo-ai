@@ -1,0 +1,17 @@
+D:\ChauDT\Tai lieu DHTN\2020_NMLT\20880010\20880010\obj\Debug\20880010.csprojResolveAssemblyReference.cache
+D:\ChauDT\Tai lieu DHTN\2020_NMLT\20880010\20880010\obj\Debug\_20880010.Properties.Resources.resources
+D:\ChauDT\Tai lieu DHTN\2020_NMLT\20880010\20880010\obj\Debug\20880010.csproj.GenerateResource.Cache
+D:\ChauDT\Tai lieu DHTN\2020_NMLT\20880010\20880010\bin\Debug\20880010.exe
+D:\ChauDT\Tai lieu DHTN\2020_NMLT\20880010\20880010\bin\Debug\20880010.pdb
+D:\ChauDT\Tai lieu DHTN\2020_NMLT\20880010\20880010\obj\Debug\20880010.exe
+D:\ChauDT\Tai lieu DHTN\2020_NMLT\20880010\20880010\obj\Debug\20880010.pdb
+D:\ChauDT\Tai lieu DHTN\2020_NMLT\20880010\20880010\obj\Debug\_20880010.MH_Chinh.resources
+D:\Tai lieu DHTN\NMLT\DOAN\20880010\20880010\bin\Debug\20880010.exe
+D:\Tai lieu DHTN\NMLT\DOAN\20880010\20880010\bin\Debug\20880010.pdb
+D:\Tai lieu DHTN\NMLT\DOAN\20880010\20880010\obj\Debug\20880010.csprojAssemblyReference.cache
+D:\Tai lieu DHTN\NMLT\DOAN\20880010\20880010\obj\Debug\_20880010.MH_Chinh.resources
+D:\Tai lieu DHTN\NMLT\DOAN\20880010\20880010\obj\Debug\_20880010.Properties.Resources.resources
+D:\Tai lieu DHTN\NMLT\DOAN\20880010\20880010\obj\Debug\20880010.csproj.GenerateResource.cache
+D:\Tai lieu DHTN\NMLT\DOAN\20880010\20880010\obj\Debug\20880010.csproj.CoreCompileInputs.cache
+D:\Tai lieu DHTN\NMLT\DOAN\20880010\20880010\obj\Debug\20880010.exe
+D:\Tai lieu DHTN\NMLT\DOAN\20880010\20880010\obj\Debug\20880010.pdb

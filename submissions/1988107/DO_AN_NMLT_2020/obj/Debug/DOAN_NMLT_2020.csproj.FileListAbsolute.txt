@@ -1,0 +1,10 @@
+C:\Users\tuan.nguyenda3\source\repos\toshi2135\intro-2-programming\DOAN_NMLT_2020\obj\Debug\DOAN_NMLT_2020.csprojAssemblyReference.cache
+C:\Users\tuan.nguyenda3\source\repos\toshi2135\intro-2-programming\DOAN_NMLT_2020\obj\Debug\DOAN_NMLT_2020.Form1.resources
+C:\Users\tuan.nguyenda3\source\repos\toshi2135\intro-2-programming\DOAN_NMLT_2020\obj\Debug\DOAN_NMLT_2020.Properties.Resources.resources
+C:\Users\tuan.nguyenda3\source\repos\toshi2135\intro-2-programming\DOAN_NMLT_2020\obj\Debug\DOAN_NMLT_2020.csproj.GenerateResource.cache
+C:\Users\tuan.nguyenda3\source\repos\toshi2135\intro-2-programming\DOAN_NMLT_2020\obj\Debug\DOAN_NMLT_2020.csproj.CoreCompileInputs.cache
+C:\Users\tuan.nguyenda3\source\repos\toshi2135\intro-2-programming\DOAN_NMLT_2020\bin\Debug\DOAN_NMLT_2020.exe.config
+C:\Users\tuan.nguyenda3\source\repos\toshi2135\intro-2-programming\DOAN_NMLT_2020\bin\Debug\DOAN_NMLT_2020.exe
+C:\Users\tuan.nguyenda3\source\repos\toshi2135\intro-2-programming\DOAN_NMLT_2020\bin\Debug\DOAN_NMLT_2020.pdb
+C:\Users\tuan.nguyenda3\source\repos\toshi2135\intro-2-programming\DOAN_NMLT_2020\obj\Debug\DOAN_NMLT_2020.exe
+C:\Users\tuan.nguyenda3\source\repos\toshi2135\intro-2-programming\DOAN_NMLT_2020\obj\Debug\DOAN_NMLT_2020.pdb

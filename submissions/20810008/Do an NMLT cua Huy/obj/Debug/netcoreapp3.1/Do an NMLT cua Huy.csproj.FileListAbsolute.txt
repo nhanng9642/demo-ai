@@ -1,0 +1,13 @@
+C:\Users\keoch\source\repos\Do an NMLT cua Huy\obj\Debug\netcoreapp3.1\Do an NMLT cua Huy.csprojAssemblyReference.cache
+C:\Users\keoch\source\repos\Do an NMLT cua Huy\obj\Debug\netcoreapp3.1\Do an NMLT cua Huy.AssemblyInfoInputs.cache
+C:\Users\keoch\source\repos\Do an NMLT cua Huy\obj\Debug\netcoreapp3.1\Do an NMLT cua Huy.AssemblyInfo.cs
+C:\Users\keoch\source\repos\Do an NMLT cua Huy\obj\Debug\netcoreapp3.1\Do an NMLT cua Huy.csproj.CoreCompileInputs.cache
+C:\Users\keoch\source\repos\Do an NMLT cua Huy\bin\Debug\netcoreapp3.1\Do an NMLT cua Huy.exe
+C:\Users\keoch\source\repos\Do an NMLT cua Huy\bin\Debug\netcoreapp3.1\Do an NMLT cua Huy.deps.json
+C:\Users\keoch\source\repos\Do an NMLT cua Huy\bin\Debug\netcoreapp3.1\Do an NMLT cua Huy.runtimeconfig.json
+C:\Users\keoch\source\repos\Do an NMLT cua Huy\bin\Debug\netcoreapp3.1\Do an NMLT cua Huy.runtimeconfig.dev.json
+C:\Users\keoch\source\repos\Do an NMLT cua Huy\bin\Debug\netcoreapp3.1\Do an NMLT cua Huy.dll
+C:\Users\keoch\source\repos\Do an NMLT cua Huy\bin\Debug\netcoreapp3.1\Do an NMLT cua Huy.pdb
+C:\Users\keoch\source\repos\Do an NMLT cua Huy\obj\Debug\netcoreapp3.1\Do an NMLT cua Huy.dll
+C:\Users\keoch\source\repos\Do an NMLT cua Huy\obj\Debug\netcoreapp3.1\Do an NMLT cua Huy.pdb
+C:\Users\keoch\source\repos\Do an NMLT cua Huy\obj\Debug\netcoreapp3.1\Do an NMLT cua Huy.genruntimeconfig.cache

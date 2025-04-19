@@ -1,0 +1,33 @@
+C:\Users\Bach\Desktop\Lập Trình Backend\Nhập Môn Lập Trình\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\bin\Debug\PhanMemQuanLyCuaHang.exe.config
+C:\Users\Bach\Desktop\Lập Trình Backend\Nhập Môn Lập Trình\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\bin\Debug\PhanMemQuanLyCuaHang.exe
+C:\Users\Bach\Desktop\Lập Trình Backend\Nhập Môn Lập Trình\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\bin\Debug\PhanMemQuanLyCuaHang.pdb
+C:\Users\Bach\Desktop\Lập Trình Backend\Nhập Môn Lập Trình\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.csprojAssemblyReference.cache
+C:\Users\Bach\Desktop\Lập Trình Backend\Nhập Môn Lập Trình\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.Properties.Resources.resources
+C:\Users\Bach\Desktop\Lập Trình Backend\Nhập Môn Lập Trình\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.csproj.GenerateResource.cache
+C:\Users\Bach\Desktop\Lập Trình Backend\Nhập Môn Lập Trình\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.csproj.CoreCompileInputs.cache
+C:\Users\Bach\Desktop\Lập Trình Backend\Nhập Môn Lập Trình\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.exe
+C:\Users\Bach\Desktop\Lập Trình Backend\Nhập Môn Lập Trình\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.pdb
+C:\Users\Bach\Desktop\Lập Trình Backend\Nhập Môn Lập Trình\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.PhanMatHang.resources
+C:\Users\Bach\Desktop\Lập Trình Backend\Nhập Môn Lập Trình\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.PhanLoaiHang.resources
+C:\Users\Bach\Desktop\Test\PhanMemQuanLyCuaHang\bin\Debug\PhanMemQuanLyCuaHang.exe.config
+C:\Users\Bach\Desktop\Test\PhanMemQuanLyCuaHang\bin\Debug\PhanMemQuanLyCuaHang.exe
+C:\Users\Bach\Desktop\Test\PhanMemQuanLyCuaHang\bin\Debug\PhanMemQuanLyCuaHang.pdb
+C:\Users\Bach\Desktop\Test\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.csprojAssemblyReference.cache
+C:\Users\Bach\Desktop\Test\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.PhanLoaiHang.resources
+C:\Users\Bach\Desktop\Test\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.PhanMatHang.resources
+C:\Users\Bach\Desktop\Test\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.Properties.Resources.resources
+C:\Users\Bach\Desktop\Test\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.csproj.GenerateResource.cache
+C:\Users\Bach\Desktop\Test\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.csproj.CoreCompileInputs.cache
+C:\Users\Bach\Desktop\Test\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.exe
+C:\Users\Bach\Desktop\Test\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.pdb
+C:\Users\Bach\Desktop\20880005-NMLT\PhanMemQuanLyCuaHang\bin\Debug\PhanMemQuanLyCuaHang.exe.config
+C:\Users\Bach\Desktop\20880005-NMLT\PhanMemQuanLyCuaHang\bin\Debug\PhanMemQuanLyCuaHang.exe
+C:\Users\Bach\Desktop\20880005-NMLT\PhanMemQuanLyCuaHang\bin\Debug\PhanMemQuanLyCuaHang.pdb
+C:\Users\Bach\Desktop\20880005-NMLT\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.csprojAssemblyReference.cache
+C:\Users\Bach\Desktop\20880005-NMLT\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.PhanLoaiHang.resources
+C:\Users\Bach\Desktop\20880005-NMLT\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.PhanMatHang.resources
+C:\Users\Bach\Desktop\20880005-NMLT\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.Properties.Resources.resources
+C:\Users\Bach\Desktop\20880005-NMLT\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.csproj.GenerateResource.cache
+C:\Users\Bach\Desktop\20880005-NMLT\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.csproj.CoreCompileInputs.cache
+C:\Users\Bach\Desktop\20880005-NMLT\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.exe
+C:\Users\Bach\Desktop\20880005-NMLT\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.pdb

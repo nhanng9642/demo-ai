@@ -1,0 +1,22 @@
+E:\E-learning\NMLT\Bài tập\BTVN\20880020\obj\Debug\20880020.csprojAssemblyReference.cache
+E:\E-learning\NMLT\Bài tập\BTVN\20880020\obj\Debug\_20880020.Form1.resources
+E:\E-learning\NMLT\Bài tập\BTVN\20880020\obj\Debug\_20880020.Properties.Resources.resources
+E:\E-learning\NMLT\Bài tập\BTVN\20880020\obj\Debug\20880020.csproj.GenerateResource.cache
+E:\E-learning\NMLT\Bài tập\BTVN\20880020\obj\Debug\20880020.csproj.CoreCompileInputs.cache
+E:\E-learning\NMLT\Bài tập\BTVN\20880020\bin\Debug\20880020.exe.config
+E:\E-learning\NMLT\Bài tập\BTVN\20880020\bin\Debug\20880020.exe
+E:\E-learning\NMLT\Bài tập\BTVN\20880020\bin\Debug\20880020.pdb
+E:\E-learning\NMLT\Bài tập\BTVN\20880020\obj\Debug\20880020.exe
+E:\E-learning\NMLT\Bài tập\BTVN\20880020\obj\Debug\20880020.pdb
+E:\E-learning\NMLT\Bài tập\BTVN\20880020\obj\Debug\_20880020.Form2.resources
+E:\E-learning\NMLT\BT\BTVN\20880020\bin\Debug\20880020.exe.config
+E:\E-learning\NMLT\BT\BTVN\20880020\bin\Debug\20880020.exe
+E:\E-learning\NMLT\BT\BTVN\20880020\bin\Debug\20880020.pdb
+E:\E-learning\NMLT\BT\BTVN\20880020\obj\Debug\20880020.csprojAssemblyReference.cache
+E:\E-learning\NMLT\BT\BTVN\20880020\obj\Debug\_20880020.Form1.resources
+E:\E-learning\NMLT\BT\BTVN\20880020\obj\Debug\_20880020.Form2.resources
+E:\E-learning\NMLT\BT\BTVN\20880020\obj\Debug\_20880020.Properties.Resources.resources
+E:\E-learning\NMLT\BT\BTVN\20880020\obj\Debug\20880020.csproj.GenerateResource.cache
+E:\E-learning\NMLT\BT\BTVN\20880020\obj\Debug\20880020.csproj.CoreCompileInputs.cache
+E:\E-learning\NMLT\BT\BTVN\20880020\obj\Debug\20880020.exe
+E:\E-learning\NMLT\BT\BTVN\20880020\obj\Debug\20880020.pdb

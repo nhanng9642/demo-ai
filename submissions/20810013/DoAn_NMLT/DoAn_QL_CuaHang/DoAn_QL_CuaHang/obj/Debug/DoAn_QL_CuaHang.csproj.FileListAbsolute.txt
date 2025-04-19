@@ -1,0 +1,10 @@
+D:\Tuxa\Nhapmon LT\DoAn_NMLT\DoAn_QL_CuaHang\DoAn_QL_CuaHang\bin\Debug\DoAn_QL_CuaHang.exe.config
+D:\Tuxa\Nhapmon LT\DoAn_NMLT\DoAn_QL_CuaHang\DoAn_QL_CuaHang\bin\Debug\DoAn_QL_CuaHang.exe
+D:\Tuxa\Nhapmon LT\DoAn_NMLT\DoAn_QL_CuaHang\DoAn_QL_CuaHang\bin\Debug\DoAn_QL_CuaHang.pdb
+D:\Tuxa\Nhapmon LT\DoAn_NMLT\DoAn_QL_CuaHang\DoAn_QL_CuaHang\obj\Debug\DoAn_QL_CuaHang.csprojAssemblyReference.cache
+D:\Tuxa\Nhapmon LT\DoAn_NMLT\DoAn_QL_CuaHang\DoAn_QL_CuaHang\obj\Debug\DoAn_QL_CuaHang.Properties.Resources.resources
+D:\Tuxa\Nhapmon LT\DoAn_NMLT\DoAn_QL_CuaHang\DoAn_QL_CuaHang\obj\Debug\DoAn_QL_CuaHang.csproj.GenerateResource.cache
+D:\Tuxa\Nhapmon LT\DoAn_NMLT\DoAn_QL_CuaHang\DoAn_QL_CuaHang\obj\Debug\DoAn_QL_CuaHang.csproj.CoreCompileInputs.cache
+D:\Tuxa\Nhapmon LT\DoAn_NMLT\DoAn_QL_CuaHang\DoAn_QL_CuaHang\obj\Debug\DoAn_QL_CuaHang.exe
+D:\Tuxa\Nhapmon LT\DoAn_NMLT\DoAn_QL_CuaHang\DoAn_QL_CuaHang\obj\Debug\DoAn_QL_CuaHang.pdb
+D:\Tuxa\Nhapmon LT\DoAn_NMLT\DoAn_QL_CuaHang\DoAn_QL_CuaHang\obj\Debug\DoAn_QL_CuaHang.Form_MatHang.resources

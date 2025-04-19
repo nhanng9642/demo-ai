@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DoAnPMQLCH_20810019/1.0.0": {
+        "runtime": {
+          "DoAnPMQLCH_20810019.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoAnPMQLCH_20810019/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

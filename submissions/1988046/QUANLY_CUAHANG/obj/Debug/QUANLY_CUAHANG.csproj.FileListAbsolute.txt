@@ -1,0 +1,10 @@
+c:\ttt\QUANLY_CUAHANG\obj\Debug\QUANLY_CUAHANG.csprojAssemblyReference.cache
+c:\ttt\QUANLY_CUAHANG\obj\Debug\QUANLY_CUAHANG.Form1.resources
+c:\ttt\QUANLY_CUAHANG\obj\Debug\QUANLY_CUAHANG.Properties.Resources.resources
+c:\ttt\QUANLY_CUAHANG\obj\Debug\QUANLY_CUAHANG.csproj.GenerateResource.cache
+c:\ttt\QUANLY_CUAHANG\bin\Debug\QUANLY_CUAHANG.exe.config
+c:\ttt\QUANLY_CUAHANG\bin\Debug\QUANLY_CUAHANG.exe
+c:\ttt\QUANLY_CUAHANG\bin\Debug\QUANLY_CUAHANG.pdb
+c:\ttt\QUANLY_CUAHANG\obj\Debug\QUANLY_CUAHANG.exe
+c:\ttt\QUANLY_CUAHANG\obj\Debug\QUANLY_CUAHANG.pdb
+c:\ttt\QUANLY_CUAHANG\obj\Debug\QUANLY_CUAHANG.Form2.resources

@@ -1,0 +1,13 @@
+C:\Users\Pto\source\repos\QuanlyHanghoa\QuanlyHanghoa\bin\Debug\netcoreapp3.1\QuanlyHanghoa.exe
+C:\Users\Pto\source\repos\QuanlyHanghoa\QuanlyHanghoa\bin\Debug\netcoreapp3.1\QuanlyHanghoa.deps.json
+C:\Users\Pto\source\repos\QuanlyHanghoa\QuanlyHanghoa\bin\Debug\netcoreapp3.1\QuanlyHanghoa.runtimeconfig.json
+C:\Users\Pto\source\repos\QuanlyHanghoa\QuanlyHanghoa\bin\Debug\netcoreapp3.1\QuanlyHanghoa.runtimeconfig.dev.json
+C:\Users\Pto\source\repos\QuanlyHanghoa\QuanlyHanghoa\bin\Debug\netcoreapp3.1\QuanlyHanghoa.dll
+C:\Users\Pto\source\repos\QuanlyHanghoa\QuanlyHanghoa\bin\Debug\netcoreapp3.1\QuanlyHanghoa.pdb
+C:\Users\Pto\source\repos\QuanlyHanghoa\QuanlyHanghoa\obj\Debug\netcoreapp3.1\QuanlyHanghoa.csprojAssemblyReference.cache
+C:\Users\Pto\source\repos\QuanlyHanghoa\QuanlyHanghoa\obj\Debug\netcoreapp3.1\QuanlyHanghoa.AssemblyInfoInputs.cache
+C:\Users\Pto\source\repos\QuanlyHanghoa\QuanlyHanghoa\obj\Debug\netcoreapp3.1\QuanlyHanghoa.AssemblyInfo.cs
+C:\Users\Pto\source\repos\QuanlyHanghoa\QuanlyHanghoa\obj\Debug\netcoreapp3.1\QuanlyHanghoa.csproj.CoreCompileInputs.cache
+C:\Users\Pto\source\repos\QuanlyHanghoa\QuanlyHanghoa\obj\Debug\netcoreapp3.1\QuanlyHanghoa.dll
+C:\Users\Pto\source\repos\QuanlyHanghoa\QuanlyHanghoa\obj\Debug\netcoreapp3.1\QuanlyHanghoa.pdb
+C:\Users\Pto\source\repos\QuanlyHanghoa\QuanlyHanghoa\obj\Debug\netcoreapp3.1\QuanlyHanghoa.genruntimeconfig.cache

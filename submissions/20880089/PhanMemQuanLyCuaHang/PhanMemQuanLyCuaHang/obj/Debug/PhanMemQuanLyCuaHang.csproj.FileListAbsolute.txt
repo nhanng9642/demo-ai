@@ -1,0 +1,30 @@
+D:\NhapMonLapTrinh\QuanLyCuaHang5\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\bin\Debug\PhanMemQuanLyCuaHang.exe.config
+D:\NhapMonLapTrinh\QuanLyCuaHang5\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\bin\Debug\PhanMemQuanLyCuaHang.exe
+D:\NhapMonLapTrinh\QuanLyCuaHang5\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\bin\Debug\PhanMemQuanLyCuaHang.pdb
+D:\NhapMonLapTrinh\QuanLyCuaHang5\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.csprojAssemblyReference.cache
+D:\NhapMonLapTrinh\QuanLyCuaHang5\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.Form1.resources
+D:\NhapMonLapTrinh\QuanLyCuaHang5\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.Properties.Resources.resources
+D:\NhapMonLapTrinh\QuanLyCuaHang5\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.csproj.GenerateResource.cache
+D:\NhapMonLapTrinh\QuanLyCuaHang5\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.csproj.CoreCompileInputs.cache
+D:\NhapMonLapTrinh\QuanLyCuaHang5\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.exe
+D:\NhapMonLapTrinh\QuanLyCuaHang5\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.pdb
+E:\Nhap mon lap trinh\Bai tap Chinh thuc\QuanLyCuaHang5\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\bin\Debug\PhanMemQuanLyCuaHang.exe.config
+E:\Nhap mon lap trinh\Bai tap Chinh thuc\QuanLyCuaHang5\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\bin\Debug\PhanMemQuanLyCuaHang.exe
+E:\Nhap mon lap trinh\Bai tap Chinh thuc\QuanLyCuaHang5\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\bin\Debug\PhanMemQuanLyCuaHang.pdb
+E:\Nhap mon lap trinh\Bai tap Chinh thuc\QuanLyCuaHang5\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.csprojAssemblyReference.cache
+E:\Nhap mon lap trinh\Bai tap Chinh thuc\QuanLyCuaHang5\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.Form1.resources
+E:\Nhap mon lap trinh\Bai tap Chinh thuc\QuanLyCuaHang5\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.Properties.Resources.resources
+E:\Nhap mon lap trinh\Bai tap Chinh thuc\QuanLyCuaHang5\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.csproj.GenerateResource.cache
+E:\Nhap mon lap trinh\Bai tap Chinh thuc\QuanLyCuaHang5\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.csproj.CoreCompileInputs.cache
+E:\Nhap mon lap trinh\Bai tap Chinh thuc\QuanLyCuaHang5\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.exe
+E:\Nhap mon lap trinh\Bai tap Chinh thuc\QuanLyCuaHang5\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.pdb
+D:\NhapMonLapTrinh\QuanLyCuaHang6\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\bin\Debug\PhanMemQuanLyCuaHang.exe.config
+D:\NhapMonLapTrinh\QuanLyCuaHang6\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\bin\Debug\PhanMemQuanLyCuaHang.exe
+D:\NhapMonLapTrinh\QuanLyCuaHang6\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\bin\Debug\PhanMemQuanLyCuaHang.pdb
+D:\NhapMonLapTrinh\QuanLyCuaHang6\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.csprojAssemblyReference.cache
+D:\NhapMonLapTrinh\QuanLyCuaHang6\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.Form1.resources
+D:\NhapMonLapTrinh\QuanLyCuaHang6\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.Properties.Resources.resources
+D:\NhapMonLapTrinh\QuanLyCuaHang6\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.csproj.GenerateResource.cache
+D:\NhapMonLapTrinh\QuanLyCuaHang6\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.csproj.CoreCompileInputs.cache
+D:\NhapMonLapTrinh\QuanLyCuaHang6\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.exe
+D:\NhapMonLapTrinh\QuanLyCuaHang6\PhanMemQuanLyCuaHang\PhanMemQuanLyCuaHang\obj\Debug\PhanMemQuanLyCuaHang.pdb

@@ -1,0 +1,11 @@
+C:\Users\Hupo\source\repos\QLBH\QLBH\bin\Debug\QLBH.exe.config
+C:\Users\Hupo\source\repos\QLBH\QLBH\bin\Debug\QLBH.exe
+C:\Users\Hupo\source\repos\QLBH\QLBH\bin\Debug\QLBH.pdb
+C:\Users\Hupo\source\repos\QLBH\QLBH\obj\Debug\QLBH.csprojAssemblyReference.cache
+C:\Users\Hupo\source\repos\QLBH\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+C:\Users\Hupo\source\repos\QLBH\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+C:\Users\Hupo\source\repos\QLBH\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
+C:\Users\Hupo\source\repos\QLBH\QLBH\obj\Debug\QLBH.exe
+C:\Users\Hupo\source\repos\QLBH\QLBH\obj\Debug\QLBH.pdb
+C:\Users\Hupo\source\repos\QLBH\QLBH\obj\Debug\QLBH.FormMatHang.resources
+C:\Users\Hupo\source\repos\QLBH\QLBH\obj\Debug\QLBH.FormLoaiHang.resources

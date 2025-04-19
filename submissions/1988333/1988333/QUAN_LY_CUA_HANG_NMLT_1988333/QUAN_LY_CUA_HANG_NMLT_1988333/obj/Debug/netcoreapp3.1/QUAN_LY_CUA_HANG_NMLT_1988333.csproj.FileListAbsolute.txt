@@ -1,0 +1,13 @@
+C:\Users\rongden\source\repos\QUAN_LY_CUA_HANG_NMLT_1988333\QUAN_LY_CUA_HANG_NMLT_1988333\bin\Debug\netcoreapp3.1\QUAN_LY_CUA_HANG_NMLT_1988333.exe
+C:\Users\rongden\source\repos\QUAN_LY_CUA_HANG_NMLT_1988333\QUAN_LY_CUA_HANG_NMLT_1988333\bin\Debug\netcoreapp3.1\QUAN_LY_CUA_HANG_NMLT_1988333.deps.json
+C:\Users\rongden\source\repos\QUAN_LY_CUA_HANG_NMLT_1988333\QUAN_LY_CUA_HANG_NMLT_1988333\bin\Debug\netcoreapp3.1\QUAN_LY_CUA_HANG_NMLT_1988333.runtimeconfig.json
+C:\Users\rongden\source\repos\QUAN_LY_CUA_HANG_NMLT_1988333\QUAN_LY_CUA_HANG_NMLT_1988333\bin\Debug\netcoreapp3.1\QUAN_LY_CUA_HANG_NMLT_1988333.runtimeconfig.dev.json
+C:\Users\rongden\source\repos\QUAN_LY_CUA_HANG_NMLT_1988333\QUAN_LY_CUA_HANG_NMLT_1988333\bin\Debug\netcoreapp3.1\QUAN_LY_CUA_HANG_NMLT_1988333.dll
+C:\Users\rongden\source\repos\QUAN_LY_CUA_HANG_NMLT_1988333\QUAN_LY_CUA_HANG_NMLT_1988333\bin\Debug\netcoreapp3.1\QUAN_LY_CUA_HANG_NMLT_1988333.pdb
+C:\Users\rongden\source\repos\QUAN_LY_CUA_HANG_NMLT_1988333\QUAN_LY_CUA_HANG_NMLT_1988333\obj\Debug\netcoreapp3.1\QUAN_LY_CUA_HANG_NMLT_1988333.csprojAssemblyReference.cache
+C:\Users\rongden\source\repos\QUAN_LY_CUA_HANG_NMLT_1988333\QUAN_LY_CUA_HANG_NMLT_1988333\obj\Debug\netcoreapp3.1\QUAN_LY_CUA_HANG_NMLT_1988333.AssemblyInfoInputs.cache
+C:\Users\rongden\source\repos\QUAN_LY_CUA_HANG_NMLT_1988333\QUAN_LY_CUA_HANG_NMLT_1988333\obj\Debug\netcoreapp3.1\QUAN_LY_CUA_HANG_NMLT_1988333.AssemblyInfo.cs
+C:\Users\rongden\source\repos\QUAN_LY_CUA_HANG_NMLT_1988333\QUAN_LY_CUA_HANG_NMLT_1988333\obj\Debug\netcoreapp3.1\QUAN_LY_CUA_HANG_NMLT_1988333.csproj.CoreCompileInputs.cache
+C:\Users\rongden\source\repos\QUAN_LY_CUA_HANG_NMLT_1988333\QUAN_LY_CUA_HANG_NMLT_1988333\obj\Debug\netcoreapp3.1\QUAN_LY_CUA_HANG_NMLT_1988333.dll
+C:\Users\rongden\source\repos\QUAN_LY_CUA_HANG_NMLT_1988333\QUAN_LY_CUA_HANG_NMLT_1988333\obj\Debug\netcoreapp3.1\QUAN_LY_CUA_HANG_NMLT_1988333.pdb
+C:\Users\rongden\source\repos\QUAN_LY_CUA_HANG_NMLT_1988333\QUAN_LY_CUA_HANG_NMLT_1988333\obj\Debug\netcoreapp3.1\QUAN_LY_CUA_HANG_NMLT_1988333.genruntimeconfig.cache

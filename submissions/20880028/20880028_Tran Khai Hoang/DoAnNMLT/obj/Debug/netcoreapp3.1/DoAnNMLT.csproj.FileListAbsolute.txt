@@ -1,0 +1,15 @@
+D:\CNTT\CTT003 - Nhập môn lập trình\Đồ án due 12-12-2020\20880028_Tran Khai Hoang\DoAnNMLT\bin\Debug\netcoreapp3.1\DoAnNMLT.exe
+D:\CNTT\CTT003 - Nhập môn lập trình\Đồ án due 12-12-2020\20880028_Tran Khai Hoang\DoAnNMLT\bin\Debug\netcoreapp3.1\DoAnNMLT.deps.json
+D:\CNTT\CTT003 - Nhập môn lập trình\Đồ án due 12-12-2020\20880028_Tran Khai Hoang\DoAnNMLT\bin\Debug\netcoreapp3.1\DoAnNMLT.runtimeconfig.json
+D:\CNTT\CTT003 - Nhập môn lập trình\Đồ án due 12-12-2020\20880028_Tran Khai Hoang\DoAnNMLT\bin\Debug\netcoreapp3.1\DoAnNMLT.runtimeconfig.dev.json
+D:\CNTT\CTT003 - Nhập môn lập trình\Đồ án due 12-12-2020\20880028_Tran Khai Hoang\DoAnNMLT\bin\Debug\netcoreapp3.1\DoAnNMLT.dll
+D:\CNTT\CTT003 - Nhập môn lập trình\Đồ án due 12-12-2020\20880028_Tran Khai Hoang\DoAnNMLT\bin\Debug\netcoreapp3.1\DoAnNMLT.pdb
+D:\CNTT\CTT003 - Nhập môn lập trình\Đồ án due 12-12-2020\20880028_Tran Khai Hoang\DoAnNMLT\obj\Debug\netcoreapp3.1\DoAnNMLT.csprojAssemblyReference.cache
+D:\CNTT\CTT003 - Nhập môn lập trình\Đồ án due 12-12-2020\20880028_Tran Khai Hoang\DoAnNMLT\obj\Debug\netcoreapp3.1\DoAnNMLT.csproj.GenerateResource.cache
+D:\CNTT\CTT003 - Nhập môn lập trình\Đồ án due 12-12-2020\20880028_Tran Khai Hoang\DoAnNMLT\obj\Debug\netcoreapp3.1\DoAnNMLT.AssemblyInfoInputs.cache
+D:\CNTT\CTT003 - Nhập môn lập trình\Đồ án due 12-12-2020\20880028_Tran Khai Hoang\DoAnNMLT\obj\Debug\netcoreapp3.1\DoAnNMLT.AssemblyInfo.cs
+D:\CNTT\CTT003 - Nhập môn lập trình\Đồ án due 12-12-2020\20880028_Tran Khai Hoang\DoAnNMLT\obj\Debug\netcoreapp3.1\DoAnNMLT.csproj.CoreCompileInputs.cache
+D:\CNTT\CTT003 - Nhập môn lập trình\Đồ án due 12-12-2020\20880028_Tran Khai Hoang\DoAnNMLT\obj\Debug\netcoreapp3.1\DoAnNMLT.dll
+D:\CNTT\CTT003 - Nhập môn lập trình\Đồ án due 12-12-2020\20880028_Tran Khai Hoang\DoAnNMLT\obj\Debug\netcoreapp3.1\DoAnNMLT.pdb
+D:\CNTT\CTT003 - Nhập môn lập trình\Đồ án due 12-12-2020\20880028_Tran Khai Hoang\DoAnNMLT\obj\Debug\netcoreapp3.1\DoAnNMLT.genruntimeconfig.cache
+D:\CNTT\CTT003 - Nhập môn lập trình\Đồ án due 12-12-2020\20880028_Tran Khai Hoang\DoAnNMLT\obj\Debug\netcoreapp3.1\DoAnNMLT.QLCUAHANG.resources

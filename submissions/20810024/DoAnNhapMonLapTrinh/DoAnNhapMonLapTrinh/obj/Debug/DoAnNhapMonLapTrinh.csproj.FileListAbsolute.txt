@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\DoAnNhapMonLapTrinh\DoAnNhapMonLapTrinh\bin\Debug\DoAnNhapMonLapTrinh.exe.config
+C:\Users\Administrator\source\repos\DoAnNhapMonLapTrinh\DoAnNhapMonLapTrinh\bin\Debug\DoAnNhapMonLapTrinh.exe
+C:\Users\Administrator\source\repos\DoAnNhapMonLapTrinh\DoAnNhapMonLapTrinh\bin\Debug\DoAnNhapMonLapTrinh.pdb
+C:\Users\Administrator\source\repos\DoAnNhapMonLapTrinh\DoAnNhapMonLapTrinh\obj\Debug\DoAnNhapMonLapTrinh.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\DoAnNhapMonLapTrinh\DoAnNhapMonLapTrinh\obj\Debug\DoAnNhapMonLapTrinh.Main.resources
+C:\Users\Administrator\source\repos\DoAnNhapMonLapTrinh\DoAnNhapMonLapTrinh\obj\Debug\DoAnNhapMonLapTrinh.Properties.Resources.resources
+C:\Users\Administrator\source\repos\DoAnNhapMonLapTrinh\DoAnNhapMonLapTrinh\obj\Debug\DoAnNhapMonLapTrinh.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\DoAnNhapMonLapTrinh\DoAnNhapMonLapTrinh\obj\Debug\DoAnNhapMonLapTrinh.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DoAnNhapMonLapTrinh\DoAnNhapMonLapTrinh\obj\Debug\DoAnNhapMonLapTrinh.exe
+C:\Users\Administrator\source\repos\DoAnNhapMonLapTrinh\DoAnNhapMonLapTrinh\obj\Debug\DoAnNhapMonLapTrinh.pdb

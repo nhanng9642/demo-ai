@@ -1,0 +1,22 @@
+C:\Users\Binh\source\repos\DoAn1\DoAn1\bin\Debug\DoAn1.exe.config
+C:\Users\Binh\source\repos\DoAn1\DoAn1\bin\Debug\DoAn1.exe
+C:\Users\Binh\source\repos\DoAn1\DoAn1\bin\Debug\DoAn1.pdb
+C:\Users\Binh\source\repos\DoAn1\DoAn1\obj\Debug\DoAn1.csprojAssemblyReference.cache
+C:\Users\Binh\source\repos\DoAn1\DoAn1\obj\Debug\DoAn1.Form1.resources
+C:\Users\Binh\source\repos\DoAn1\DoAn1\obj\Debug\DoAn1.Properties.Resources.resources
+C:\Users\Binh\source\repos\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.GenerateResource.cache
+C:\Users\Binh\source\repos\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.CoreCompileInputs.cache
+C:\Users\Binh\source\repos\DoAn1\DoAn1\obj\Debug\DoAn1.exe
+C:\Users\Binh\source\repos\DoAn1\DoAn1\obj\Debug\DoAn1.pdb
+C:\Users\Binh\source\repos\DoAn1\DoAn1\obj\Debug\DoAn1.Form2.resources
+E:\Drive Cometolearnit\Drive gmail HP\Me\e-Learning\Nhập môn lập trình\Đồ án cuối khóa\DoAn1\DoAn1\bin\Debug\DoAn1.exe.config
+E:\Drive Cometolearnit\Drive gmail HP\Me\e-Learning\Nhập môn lập trình\Đồ án cuối khóa\DoAn1\DoAn1\bin\Debug\DoAn1.exe
+E:\Drive Cometolearnit\Drive gmail HP\Me\e-Learning\Nhập môn lập trình\Đồ án cuối khóa\DoAn1\DoAn1\bin\Debug\DoAn1.pdb
+E:\Drive Cometolearnit\Drive gmail HP\Me\e-Learning\Nhập môn lập trình\Đồ án cuối khóa\DoAn1\DoAn1\obj\Debug\DoAn1.csprojAssemblyReference.cache
+E:\Drive Cometolearnit\Drive gmail HP\Me\e-Learning\Nhập môn lập trình\Đồ án cuối khóa\DoAn1\DoAn1\obj\Debug\DoAn1.Form1.resources
+E:\Drive Cometolearnit\Drive gmail HP\Me\e-Learning\Nhập môn lập trình\Đồ án cuối khóa\DoAn1\DoAn1\obj\Debug\DoAn1.Form2.resources
+E:\Drive Cometolearnit\Drive gmail HP\Me\e-Learning\Nhập môn lập trình\Đồ án cuối khóa\DoAn1\DoAn1\obj\Debug\DoAn1.Properties.Resources.resources
+E:\Drive Cometolearnit\Drive gmail HP\Me\e-Learning\Nhập môn lập trình\Đồ án cuối khóa\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.GenerateResource.cache
+E:\Drive Cometolearnit\Drive gmail HP\Me\e-Learning\Nhập môn lập trình\Đồ án cuối khóa\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.CoreCompileInputs.cache
+E:\Drive Cometolearnit\Drive gmail HP\Me\e-Learning\Nhập môn lập trình\Đồ án cuối khóa\DoAn1\DoAn1\obj\Debug\DoAn1.exe
+E:\Drive Cometolearnit\Drive gmail HP\Me\e-Learning\Nhập môn lập trình\Đồ án cuối khóa\DoAn1\DoAn1\obj\Debug\DoAn1.pdb

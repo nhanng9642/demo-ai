@@ -1,0 +1,13 @@
+C:\Users\phgkh\source\repos\DoAnNMLT_20880040_Console\DoAnNMLT_20880040_Console\obj\Debug\netcoreapp3.1\DoAnNMLT_20880040_Console.csprojAssemblyReference.cache
+C:\Users\phgkh\source\repos\DoAnNMLT_20880040_Console\DoAnNMLT_20880040_Console\obj\Debug\netcoreapp3.1\DoAnNMLT_20880040_Console.AssemblyInfoInputs.cache
+C:\Users\phgkh\source\repos\DoAnNMLT_20880040_Console\DoAnNMLT_20880040_Console\obj\Debug\netcoreapp3.1\DoAnNMLT_20880040_Console.AssemblyInfo.cs
+C:\Users\phgkh\source\repos\DoAnNMLT_20880040_Console\DoAnNMLT_20880040_Console\obj\Debug\netcoreapp3.1\DoAnNMLT_20880040_Console.csproj.CoreCompileInputs.cache
+C:\Users\phgkh\source\repos\DoAnNMLT_20880040_Console\DoAnNMLT_20880040_Console\bin\Debug\netcoreapp3.1\DoAnNMLT_20880040_Console.exe
+C:\Users\phgkh\source\repos\DoAnNMLT_20880040_Console\DoAnNMLT_20880040_Console\bin\Debug\netcoreapp3.1\DoAnNMLT_20880040_Console.deps.json
+C:\Users\phgkh\source\repos\DoAnNMLT_20880040_Console\DoAnNMLT_20880040_Console\bin\Debug\netcoreapp3.1\DoAnNMLT_20880040_Console.runtimeconfig.json
+C:\Users\phgkh\source\repos\DoAnNMLT_20880040_Console\DoAnNMLT_20880040_Console\bin\Debug\netcoreapp3.1\DoAnNMLT_20880040_Console.runtimeconfig.dev.json
+C:\Users\phgkh\source\repos\DoAnNMLT_20880040_Console\DoAnNMLT_20880040_Console\bin\Debug\netcoreapp3.1\DoAnNMLT_20880040_Console.dll
+C:\Users\phgkh\source\repos\DoAnNMLT_20880040_Console\DoAnNMLT_20880040_Console\bin\Debug\netcoreapp3.1\DoAnNMLT_20880040_Console.pdb
+C:\Users\phgkh\source\repos\DoAnNMLT_20880040_Console\DoAnNMLT_20880040_Console\obj\Debug\netcoreapp3.1\DoAnNMLT_20880040_Console.dll
+C:\Users\phgkh\source\repos\DoAnNMLT_20880040_Console\DoAnNMLT_20880040_Console\obj\Debug\netcoreapp3.1\DoAnNMLT_20880040_Console.pdb
+C:\Users\phgkh\source\repos\DoAnNMLT_20880040_Console\DoAnNMLT_20880040_Console\obj\Debug\netcoreapp3.1\DoAnNMLT_20880040_Console.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/sinhtran/.dotnet/store/|arch|/|tfm|",
+      "/Users/sinhtran/.nuget/packages"
+    ]
+  }
+}

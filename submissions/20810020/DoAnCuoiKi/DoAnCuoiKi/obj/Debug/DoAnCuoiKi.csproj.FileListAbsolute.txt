@@ -1,0 +1,20 @@
+E:\E learning\Nhap mon lap trinh\Do an cuoi ki\DoAnCuoiKi\DoAnCuoiKi\bin\Debug\DoAnCuoiKi.exe.config
+E:\E learning\Nhap mon lap trinh\Do an cuoi ki\DoAnCuoiKi\DoAnCuoiKi\bin\Debug\DoAnCuoiKi.exe
+E:\E learning\Nhap mon lap trinh\Do an cuoi ki\DoAnCuoiKi\DoAnCuoiKi\bin\Debug\DoAnCuoiKi.pdb
+E:\E learning\Nhap mon lap trinh\Do an cuoi ki\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.csprojAssemblyReference.cache
+E:\E learning\Nhap mon lap trinh\Do an cuoi ki\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.Properties.Resources.resources
+E:\E learning\Nhap mon lap trinh\Do an cuoi ki\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.csproj.GenerateResource.cache
+E:\E learning\Nhap mon lap trinh\Do an cuoi ki\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.csproj.CoreCompileInputs.cache
+E:\E learning\Nhap mon lap trinh\Do an cuoi ki\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.exe
+E:\E learning\Nhap mon lap trinh\Do an cuoi ki\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.pdb
+E:\E learning\Nhap mon lap trinh\Do an cuoi ki\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.formChinh.resources
+E:\E learning\Hoc ki 1\Nhap mon lap trinh\Do an cuoi ki\DoAnCuoiKi\DoAnCuoiKi\bin\Debug\DoAnCuoiKi.exe.config
+E:\E learning\Hoc ki 1\Nhap mon lap trinh\Do an cuoi ki\DoAnCuoiKi\DoAnCuoiKi\bin\Debug\DoAnCuoiKi.exe
+E:\E learning\Hoc ki 1\Nhap mon lap trinh\Do an cuoi ki\DoAnCuoiKi\DoAnCuoiKi\bin\Debug\DoAnCuoiKi.pdb
+E:\E learning\Hoc ki 1\Nhap mon lap trinh\Do an cuoi ki\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.csprojAssemblyReference.cache
+E:\E learning\Hoc ki 1\Nhap mon lap trinh\Do an cuoi ki\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.formChinh.resources
+E:\E learning\Hoc ki 1\Nhap mon lap trinh\Do an cuoi ki\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.Properties.Resources.resources
+E:\E learning\Hoc ki 1\Nhap mon lap trinh\Do an cuoi ki\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.csproj.GenerateResource.cache
+E:\E learning\Hoc ki 1\Nhap mon lap trinh\Do an cuoi ki\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.csproj.CoreCompileInputs.cache
+E:\E learning\Hoc ki 1\Nhap mon lap trinh\Do an cuoi ki\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.exe
+E:\E learning\Hoc ki 1\Nhap mon lap trinh\Do an cuoi ki\DoAnCuoiKi\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.pdb

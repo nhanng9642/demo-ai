@@ -1,0 +1,11 @@
+G:\Source Code\Webform\ChuongTrinhNhanTinCTY\slnDoAnMatHang\DoAnMatHang\bin\Debug\DoAnMatHang.exe.config
+G:\Source Code\Webform\ChuongTrinhNhanTinCTY\slnDoAnMatHang\DoAnMatHang\bin\Debug\DoAnMatHang.exe
+G:\Source Code\Webform\ChuongTrinhNhanTinCTY\slnDoAnMatHang\DoAnMatHang\bin\Debug\DoAnMatHang.pdb
+G:\Source Code\Webform\ChuongTrinhNhanTinCTY\slnDoAnMatHang\DoAnMatHang\obj\Debug\DoAnMatHang.csprojResolveAssemblyReference.cache
+G:\Source Code\Webform\ChuongTrinhNhanTinCTY\slnDoAnMatHang\DoAnMatHang\obj\Debug\DoAnMatHang.Form1.resources
+G:\Source Code\Webform\ChuongTrinhNhanTinCTY\slnDoAnMatHang\DoAnMatHang\obj\Debug\DoAnMatHang.Properties.Resources.resources
+G:\Source Code\Webform\ChuongTrinhNhanTinCTY\slnDoAnMatHang\DoAnMatHang\obj\Debug\DoAnMatHang.csproj.GenerateResource.Cache
+G:\Source Code\Webform\ChuongTrinhNhanTinCTY\slnDoAnMatHang\DoAnMatHang\obj\Debug\DoAnMatHang.exe
+G:\Source Code\Webform\ChuongTrinhNhanTinCTY\slnDoAnMatHang\DoAnMatHang\obj\Debug\DoAnMatHang.pdb
+G:\Source Code\Webform\ChuongTrinhNhanTinCTY\slnDoAnMatHang\DoAnMatHang\obj\Debug\DoAnMatHang.frLoaiHang.resources
+G:\Source Code\Webform\ChuongTrinhNhanTinCTY\slnDoAnMatHang\DoAnMatHang\obj\Debug\DoAnMatHang.frMatHang.resources
