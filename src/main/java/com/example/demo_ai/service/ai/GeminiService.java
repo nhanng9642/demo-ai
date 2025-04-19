@@ -2,6 +2,7 @@ package com.example.demo_ai.service.ai;
 
 import com.example.demo_ai.domain.Chunk;
 import lombok.RequiredArgsConstructor;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.*;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
@@ -13,7 +14,9 @@ import java.util.List;
 public class GeminiService implements AIService{
     private final String MODEL = "models/text-embedding-004";
     private final RestTemplate restTemplate = new RestTemplate();
-    private static final String GEMINI_API_KEY = "AIzaSyDY1-r6rO9Gm3wrcNVrW1MVUt1TCdzOqtw";
+
+    @Value("${spring.application.gemini.api-key}")
+    private static String GEMINI_API_KEY;
 
     private static final String GEMINI_API_URL =
             "https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents?key=" + GEMINI_API_KEY;

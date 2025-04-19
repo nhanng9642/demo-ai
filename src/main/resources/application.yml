@@ -1,6 +1,8 @@
 spring:
   application:
     name: demo-ai
+    gemini:
+      api-key:
   datasource:
     url: jdbc:postgresql://localhost:5432/postgres
     username: postgres
@@ -15,3 +17,4 @@ spring:
           batch_size: 100
         order_updates: true
         order_inserts: true
+
